@@ -30,3 +30,9 @@
 .title {
     text-align: center;;
 }
+
+.mini-post img {
+    display: block;
+    width: 100%;
+    height: auto; /* Fix pour safari */
+}
